@@ -1,3 +1,98 @@
+Modifiers
+
+4k resolution
+
+8k resolution
+Unsplash photo contest winner
+Trending on artstation
+Deviantart
+
+#pixelart
+
+3d art
+
+Digital art
+
+Blender
+
+Octane Render
+Unreal engine
+Watercolor
+
+Oil painting
+
+Acrylic painting
+
+Shot on film
+
+35mm lens
+
+Portrait photography
+Portrait
+
+Character design
+Cgsociety
+Mandelbulb 3D
+Trending on Flickr.
+Vaporwave
+
+(You can really put anything though, don’t let this
+limit you)
+
+
+Artists Modifiers
+
+Fantasy Landscapes 4k resolution
+
+- Tyler Edlin 8k resolution
+
+- Mark Simonetti Unsplash photo contest winner
+Trending on artstation
+
+Fantasy Characters Deviantart
+
+- Justin Gerard #pixelart
+
+- Wayne Barlowe 3d art
+
+- Victor Adame Minguez Digital art
+
+- Jesper Ejsing Blender
+
+- Gerald Brom Octane Render
+
+- Greg Rutkowski Unreal engine
+Watercolor
+
+Classics Oil painting
+
+- DaVinci Acrylic painting
+
+- Pablo Picasso Shot on film
+
+- Van Gogh 35mm lens
+
+- Winslow Homer Portrait photography
+
+- M.C. Escher Portrait
+Character design
+
+Sci-Fi Cgsociety
+
+- Jim Burns Mandelbulb 3D
+
+- John Harris Trending on Flickr.
+
+- Dean Ellis Vaporwave
+
+- H.R. Giger
+
+Anime
+
+- Studio Ghibli (You can really put anything though, don’t let this
+
+- Makoto Shinkai limit you)
+
 ARTISTS:
 
 Mark Simonetti
