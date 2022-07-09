@@ -1,3 +1,30 @@
+PROMT CUE:
+
+
+
+
+
+
+
+
+
+
+
+
+USED:
+
+Gynoid, 1940s scifi, female robot, portrait, portrait, vintage scifi, high detail, Gil Elvgren --ar 9:16
+
+victorian bedroom, canopy bed, bay windows, cluttered, photo realistic foreground, heavy shadow, matte painting, high texture detail, green brass environment, --ar 16:9
+
+victorian bathroom, white ceramic tub, stained glass window, damask wallpaper, brass pipes plumbing, steampunk, cluttered, photo realistic foreground, high contrast, matte painting, high texture detail, green brass environment, --ar 16:9
+
+Industrial, spacecraft interior, undead astronauts, derelict, vintage scifi, skeletal, morbid, dark, meanacing, horror, detailed, realistic, 4k cinematic, --ar 16:9
+
+
+
+
+
 obert-wilinski-c0b8cf75-8d33-4337-b227-5097eae9476b-ro311974-dark-derelictglasshousethickdirtyscratchedgrimeglassheavyrustymetalsupportbeamsheavyrainplantsflower.jpg?1654738965
 
 Modifiers
@@ -120,13 +147,7 @@ Modesty Blaise?
 
 
 
-Gynoid, 1940s scifi, female robot, portrait, portrait, vintage scifi, high detail, Gil Elvgren --ar 9:16
 
-victorian bedroom, canopy bed, bay windows, cluttered, photo realistic foreground, heavy shadow, matte painting, high texture detail, green brass environment, --ar 16:9
-
-victorian bathroom, white ceramic tub, stained glass window, damask wallpaper, brass pipes plumbing, steampunk, cluttered, photo realistic foreground, high contrast, matte painting, high texture detail, green brass environment, --ar 16:9
-
-Industrial, spacecraft interior, undead astronauts, derelict, vintage scifi, skeletal, morbid, dark, meanacing, horror, detailed, realistic, 4k cinematic, --ar 16:9
 
 PROMPTS
 
