@@ -1,5 +1,8 @@
 PROMT CUE:
 
+A bright, serene planet, just off the beach in a crystaline blue sea. There are a few wispy clouds in the sky. high detail, Cinematic 4k. Calm. Clear. Bright. Warm.
+
+
 
 
 
@@ -135,6 +138,8 @@ Joe Cornish
 Chen Chi
 Alex Gray
 Peter Mohrbacher
+Edward Gorey
+
 
 
 UNTRIED
