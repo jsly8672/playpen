@@ -2,10 +2,14 @@ PROMT CUE:
 
 A bright, serene planet, just off the beach in a crystaline blue sea. There are a few wispy clouds in the sky. high detail, Cinematic 4k. Calm. Clear. Bright. Warm.
 
+/imagine Jethro Tull concert in a forest at night. the band performs in front 
+immense trees that thrust up into the clear night sky. there is a great bonfire. 
 
 
+An amusment park ride of antique cars
 
 
+ A brutalism monolithic concrete monastery Le corbusier in cloudy day, architecture, archdaily , Tomba Brion, Unity temple, wide angle, dynamic composition, ultra detailed, realistic , hyperealistic ultra detailed, photorealistic, cinematic, movie concept art, octane render, corona render, 8K --ar 4:3 
 
 
 
@@ -79,6 +83,7 @@ Fantasy Landscapes 4k resolution
 - Tyler Edlin 8k resolution
 
 - Mark Simonetti Unsplash photo contest winner
+
 Trending on artstation
 
 Fantasy Characters Deviantart
@@ -94,6 +99,7 @@ Fantasy Characters Deviantart
 - Gerald Brom Octane Render
 
 - Greg Rutkowski Unreal engine
+
 Watercolor
 
 Classics Oil painting
@@ -107,6 +113,7 @@ Classics Oil painting
 - Winslow Homer Portrait photography
 
 - M.C. Escher Portrait
+
 Character design
 
 Sci-Fi Cgsociety
