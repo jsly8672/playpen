@@ -12,7 +12,7 @@ An amusment park ride of antique cars
  A brutalism monolithic concrete monastery Le corbusier in cloudy day, architecture, archdaily , Tomba Brion, Unity temple, wide angle, dynamic composition, ultra detailed, realistic , hyperealistic ultra detailed, photorealistic, cinematic, movie concept art, octane render, corona render, 8K --ar 4:3 
 
 
-
+Please include one of the following words in your prompt, while using this channel: hill, mountains, sunset, field, world, ocean, trees, underground, city, village, path, urban, mountain, buildings, waterfall, skyline, nature, town, industrial, architecture, road, jungle, valley, bridge, horizon, landscape, house, building, environment, wilderness, enviroment, river, cave, desert, forest
 
 
 
